@@ -5,22 +5,22 @@ A complete task management solution with a Node.js/TypeScript backend API and Ne
 ## Features
 
 ### Backend (Node.js + Express + Prisma)
-- ✅ User Authentication with JWT (Access Token + Refresh Token)
-- ✅ Secure Password Hashing with bcrypt
-- ✅ Complete Task CRUD Operations
-- ✅ Task Pagination, Filtering, and Searching
-- ✅ Task Status Management (Pending, In Progress, Completed)
-- ✅ User-scoped Task Management
+- User Authentication with JWT (Access Token + Refresh Token)
+- Secure Password Hashing with bcrypt
+- Complete Task CRUD Operations
+- Task Pagination, Filtering, and Searching
+- Task Status Management (Pending, In Progress, Completed)
+- User-scoped Task Management
 
 ### Frontend (Next.js 14 + TypeScript + TailwindCSS)
-- ✅ Responsive Web Design (Mobile & Desktop)
-- ✅ User Registration & Login
-- ✅ Task Dashboard with Real-time Updates
-- ✅ Create, Read, Update, Delete (CRUD) Operations
-- ✅ Task Filtering by Status
-- ✅ Task Search Functionality
-- ✅ Toast Notifications for User Feedback
-- ✅ Pagination Support
+- Responsive Web Design (Mobile & Desktop)
+- User Registration & Login
+- Task Dashboard with Real-time Updates
+- Create, Read, Update, Delete (CRUD) Operations
+- Task Filtering by Status
+- Task Search Functionality
+- Toast Notifications for User Feedback
+- Pagination Support
 
 ## Project Structure
 
@@ -193,13 +193,13 @@ earnest fintech/
 
 ## Security Features
 
-- ✅ JWT-based authentication with expiring access tokens
-- ✅ Long-lived refresh tokens for seamless re-authentication
-- ✅ Bcrypt password hashing (10 salt rounds)
-- ✅ Protected API routes (require valid JWT)
-- ✅ User-scoped task queries (users can only see their tasks)
-- ✅ Secure token storage in localStorage
-- ✅ CORS enabled for development flexibility
+- JWT-based authentication with expiring access tokens
+- Long-lived refresh tokens for seamless re-authentication
+- Bcrypt password hashing (10 salt rounds)
+- Protected API routes (require valid JWT)
+- User-scoped task queries (users can only see their tasks)
+- Secure token storage in localStorage
+- CORS enabled for development flexibility
 
 ## Database Schema
 
